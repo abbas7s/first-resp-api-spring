@@ -28,7 +28,7 @@ json{
   "name": "First product"
 }
 
-<img width="1710" height="1107" alt="Screenshot 2026-05-14 at 22 09 11" src="https://github.com/user-attachments/assets/28453af5-b872-43e3-bfdd-81be5d549431" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-14 at 22 12 31 (2)" src="https://github.com/user-attachments/assets/7d63a35e-8f26-4d45-85cd-35415ff0fb4c" />
 
 
 Getting a product (GET)
@@ -61,8 +61,8 @@ The application uses an H2 in-memory database. You can view it at:
 http://localhost:8080/console/
 Set the JDBC URL to jdbc:h2:mem:testdb and click Connect.
 
-<img width="1710" height="1107" alt="Screenshot 2026-05-14 at 22 10 25" src="https://github.com/user-attachments/assets/88db4760-a9e9-4efe-aba1-fb4807a348c1" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-14 at 22 13 39 (2)" src="https://github.com/user-attachments/assets/0e836915-6dec-424f-b824-502c1282598d" />
 
 You can run SQL queries like:
 sqlSELECT * FROM PRODUCTS;
-<img width="1710" height="1107" alt="Screenshot 2026-05-14 at 22 11 17" src="https://github.com/user-attachments/assets/5d32b75b-c707-4078-8067-911626ccd24f" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-14 at 22 12 56 (2)" src="https://github.com/user-attachments/assets/304285b0-a93e-4699-a923-7caec74c4212" />
